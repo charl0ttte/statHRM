@@ -24,7 +24,7 @@
 
 ## Fragebogen wird beeinflusst von
 - Forschungsfrage und Hypothesen
-- Befragungsart`r if(lec){" (z.B.: schriftlich, online"}`
+- Befragungsart`r if(lec){" (z.B.: schriftlich, online) "}`
 - Verfahren der Stichprobenziehung
 - Prozess der Fragebogenentwicklung `r if(lec){" (z.B.: Teams vs. Einzelpersonen, bestehendes Material)"}`
 - Pre-Tests `r if(lec){" (z.B.: Feldtests, kognitive Interviews)"}`
